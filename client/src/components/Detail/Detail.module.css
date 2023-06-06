@@ -1,0 +1,66 @@
+.container{
+    background-image: url('../../assets/background2.jpeg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        padding-top: 30px;
+        justify-content: center;
+        align-items: center;
+
+        
+}
+.title{
+    color: red;
+}
+.card {
+    background-color: rgba(0, 0, 4, 0.817);
+    color: white;
+    border:2px solid red;
+    width: 80%;
+            display: flex;
+                flex-direction: column;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+}
+.id {
+    margin-top: 0;
+        font-weight: 700;
+        color: rgb(148, 11, 11);
+            text-align: left;
+            
+   
+}
+.left {
+    width: 60%;
+    margin-left: 1.5em;
+    text-align: left;
+}
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 40%;
+}
+.subtitle {
+    font-weight: 700;
+        color: rgb(148, 11, 11);
+            text-align: left;
+            
+        }
+
+.img {
+    width:95%;
+}
+.load {
+    color:rgb(148, 11, 11) ;
+    transform: scale(4);
+    -webkit-transform: scale(4);
+    -moz-transform: scale(4);
+    -ms-transform: scale(4);
+    -o-transform: scale(4);
+}

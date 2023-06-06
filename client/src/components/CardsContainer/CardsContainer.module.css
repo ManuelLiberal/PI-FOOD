@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    width: 80%;
+   margin-bottom: 20px;
+}
+.button {
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    /* background-color: rgba(0, 0, 0, 0.684); */
+        border: 2px solid black;
+        color: black;
+}
+
+.button:disabled {
+    cursor:default;
+    background-color: rgb(158, 116, 38);
+}
+.button:enabled:hover {
+    background-color: rgb(255, 187, 60);
+}
+.button:enabled {
+    background-color: orange;
+}

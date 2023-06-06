@@ -1,0 +1,21 @@
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(4, 4, 4);
+  
+}
+.title{
+    color: rgb(148, 11, 11);
+}
+.title:hover {
+    color: rgb(212, 38, 38);
+
+}
+.name {
+    margin-top: 2em;
+    margin-left: 1em;
+    color: rgb(148, 11, 11);
+}
+
+

@@ -1,0 +1,30 @@
+.title {
+    color: rgb(148, 11, 11);
+    text-align: left;
+    margin-left: 1.5em;
+}
+.type_diet {
+    
+text-transform:uppercase;
+font-weight: 700;
+margin: 0 0.5em;
+
+}
+.diet_container {
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline;
+    margin: 0.2em;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.container {
+    margin-left: 1.5em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}

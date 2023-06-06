@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+    margin-right: 100px;
+}
+.input {
+    background-color: rgb(148, 11, 11);
+    border: 1px solid black;
+    font-weight: 700;
+    
+}
+.input::placeholder {
+    color: black;
+}
+.button {
+    background-color: black;
+    border: 2px solid rgb(148, 11, 11);
+    color: rgb(148, 11, 11);
+}

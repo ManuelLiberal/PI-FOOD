@@ -1,0 +1,11 @@
+.container {
+background-image: url('../assets/background2.jpeg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+   
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    min-height: 100vh;
+}

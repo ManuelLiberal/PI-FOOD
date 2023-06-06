@@ -5,7 +5,7 @@
 # Individual Project - Food Recipes by Manuel Liberal
 
 <p align="center">
-  <img height="200" src="https://giphy.com/gifs/moodman-nibbles-tuffy-baby-jerry-UW7dETXIAsCK5m0tkM" />
+  <img height="200" src="https://64.media.tumblr.com/tumblr_lzzla59XfE1rn95k2o1_500.gifv" />
 </p>
 
 ## ¿De qué trata el proyecto?
